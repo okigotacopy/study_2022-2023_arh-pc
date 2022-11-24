@@ -89,7 +89,7 @@ header-includes:
 Заменим текст “Hello, world” на нашу фамилию и выполним компановку,
 запустим программу.
 
-![sc4](image/sc4.png){ #fig:005 width=90% } 
+![sc4](image/sc4.jpg){ #fig:005 width=90% } 
 
 # Выводы
 
